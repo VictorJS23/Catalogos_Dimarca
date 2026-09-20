@@ -11,3 +11,7 @@ bot/.env
 
 # PDF — posteriormente irán a Cloudflare R2
 pdfs/
+
+# Bot - Por si se implementa un bot
+
+bot/
